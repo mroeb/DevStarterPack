@@ -1,0 +1,15 @@
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\bin\Debug\net8.0\odd-or-even.exe
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\bin\Debug\net8.0\odd-or-even.deps.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\bin\Debug\net8.0\odd-or-even.runtimeconfig.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\bin\Debug\net8.0\odd-or-even.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\bin\Debug\net8.0\odd-or-even.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\odd-or-even.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\odd-or-even.AssemblyInfoInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\odd-or-even.AssemblyInfo.cs
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\odd-or-even.csproj.CoreCompileInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\odd-or-even.sourcelink.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\odd-or-even.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\refint\odd-or-even.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\odd-or-even.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\odd-or-even.genruntimeconfig.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\odd-or-even\odd-or-even\obj\Debug\net8.0\ref\odd-or-even.dll

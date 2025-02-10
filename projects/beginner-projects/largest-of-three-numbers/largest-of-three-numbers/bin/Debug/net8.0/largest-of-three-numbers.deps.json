@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "largest-of-three-numbers/1.0.0": {
+        "runtime": {
+          "largest-of-three-numbers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "largest-of-three-numbers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

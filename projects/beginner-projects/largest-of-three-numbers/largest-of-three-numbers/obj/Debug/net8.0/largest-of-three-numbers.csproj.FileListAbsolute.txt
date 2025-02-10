@@ -1,0 +1,15 @@
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\bin\Debug\net8.0\largest-of-three-numbers.exe
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\bin\Debug\net8.0\largest-of-three-numbers.deps.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\bin\Debug\net8.0\largest-of-three-numbers.runtimeconfig.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\bin\Debug\net8.0\largest-of-three-numbers.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\bin\Debug\net8.0\largest-of-three-numbers.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\largest-of-three-numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\largest-of-three-numbers.AssemblyInfoInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\largest-of-three-numbers.AssemblyInfo.cs
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\largest-of-three-numbers.csproj.CoreCompileInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\largest-of-three-numbers.sourcelink.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\largest-of-three-numbers.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\refint\largest-of-three-numbers.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\largest-of-three-numbers.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\largest-of-three-numbers.genruntimeconfig.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\largest-of-three-numbers\largest-of-three-numbers\obj\Debug\net8.0\ref\largest-of-three-numbers.dll
