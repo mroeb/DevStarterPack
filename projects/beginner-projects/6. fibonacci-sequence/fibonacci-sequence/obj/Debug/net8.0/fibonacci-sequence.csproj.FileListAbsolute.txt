@@ -1,0 +1,15 @@
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.exe
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.deps.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.runtimeconfig.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\bin\Debug\net8.0\fibonacci-sequence.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.AssemblyInfoInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.AssemblyInfo.cs
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.csproj.CoreCompileInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.sourcelink.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\refint\fibonacci-sequence.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\fibonacci-sequence.genruntimeconfig.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\fibonacci-sequence\fibonacci-sequence\obj\Debug\net8.0\ref\fibonacci-sequence.dll

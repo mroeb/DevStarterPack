@@ -1,0 +1,15 @@
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\bin\Debug\net8.0\count-vowels.exe
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\bin\Debug\net8.0\count-vowels.deps.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\bin\Debug\net8.0\count-vowels.runtimeconfig.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\bin\Debug\net8.0\count-vowels.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\bin\Debug\net8.0\count-vowels.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\count-vowels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\count-vowels.AssemblyInfoInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\count-vowels.AssemblyInfo.cs
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\count-vowels.csproj.CoreCompileInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\count-vowels.sourcelink.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\count-vowels.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\refint\count-vowels.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\count-vowels.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\count-vowels.genruntimeconfig.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\count-vowels\count-vowels\obj\Debug\net8.0\ref\count-vowels.dll

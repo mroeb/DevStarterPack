@@ -1,0 +1,15 @@
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\bin\Debug\net8.0\prime-number-check.exe
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\bin\Debug\net8.0\prime-number-check.deps.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\bin\Debug\net8.0\prime-number-check.runtimeconfig.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\bin\Debug\net8.0\prime-number-check.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\bin\Debug\net8.0\prime-number-check.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\prime-number-check.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\prime-number-check.AssemblyInfoInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\prime-number-check.AssemblyInfo.cs
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\prime-number-check.csproj.CoreCompileInputs.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\prime-number-check.sourcelink.json
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\prime-number-check.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\refint\prime-number-check.dll
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\prime-number-check.pdb
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\prime-number-check.genruntimeconfig.cache
+C:\Users\ROEBFI\source\Repos\DevStarterPack\projects\beginner-projects\prime-number-check\prime-number-check\obj\Debug\net8.0\ref\prime-number-check.dll
